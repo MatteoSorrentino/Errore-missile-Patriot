@@ -30,6 +30,7 @@ namespace ConsoleApp
 
             Console.WriteLine($" {spazio} è l'errore in secondi che fece il missile Patriot");
 
+
             Console.ReadLine();
         }
     }
